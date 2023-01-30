@@ -5,6 +5,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.HashMap;
 
+// Problem -
+// https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/practice-problems/algorithm/benny-and-gifts-marcheasy-3/editorial/
+
 public class BennyAndGifts {
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
