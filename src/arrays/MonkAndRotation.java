@@ -1,4 +1,4 @@
-package arrays.oneD;
+package arrays;
 
 // Problem -
 // Monk loves to preform different operations on arrays, and so being the principal of Hackerearth School,
